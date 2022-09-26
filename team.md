@@ -2,7 +2,7 @@
 layout: team
 title: Team
 permalink: /team
-pageimage: /images/sewing.jpg
+pageimage: /images/learning.jpg
 ---
 
 {% comment %}
