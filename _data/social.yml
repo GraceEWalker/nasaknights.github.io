@@ -1,0 +1,15 @@
+- name: GitHub
+  link: https://github.com/NASAKnights
+  icon: github-circle
+
+- name: Instagram
+  link: https://instagram.com/nasaknight.122
+  icon: instagram
+
+- name: Facebook
+  link: https://facebook.com/frc122
+  icon: facebook
+
+- name: Email
+  link: mailto:frcnasaknights122@gmail.com
+  icon: email

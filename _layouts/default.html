@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="{{ page.bodyclass }}">
+
+    {% include tagmanager.html %}
+
+    {% include header.html %}
+
+    <main role="main" class="container-fluid">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
