@@ -1,0 +1,23 @@
+- page: Home
+  url: /
+
+- page: About
+  url: /about
+
+- page: Team
+  url: /team
+
+- page: Sponsors
+  url: /sponsors
+
+- page: Tutorials
+  url: /tutorials
+
+- page: Blog
+  url: /blog
+
+# Disabled for now, need a new form submission tool
+#- page: Contact
+#  url: /contact
+
+

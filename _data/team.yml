@@ -1,0 +1,23 @@
+- name: Leadership
+  members:
+     - name: 
+       pic:
+       info: President
+
+- name: Software
+  members:
+     - name: 
+       pic:
+
+
+- name: Mechanical
+  members:
+     - name:
+       pic:
+
+
+- name: Electrical
+  members:
+     - name:
+       pic:
+

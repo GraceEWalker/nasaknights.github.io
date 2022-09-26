@@ -1,0 +1,22 @@
+---
+layout: content
+---
+
+<div class="row">
+    <div class="col-12 col-md-8">
+
+        {% if page.id %}
+            <div class="post-content" itemprop="articleBody">
+                {{ content }}
+            </div>
+        {% else %}
+            {{ content }}
+        {% endif %}
+
+    </div>
+    <div class="col-12 col-md-4">
+
+        {% include sidebar.html %}
+
+    </div>
+</div>

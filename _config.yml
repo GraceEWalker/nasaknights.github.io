@@ -1,0 +1,14 @@
+title: FRC NASA Knights 122
+domain: nasaknights.github.io
+url: https://nasaknights.github.io
+description: NASA Knights FRC team members are learning a variety of disciplines, including engineering, computer science, and physics.
+keywords: nasa knights, robotics, frc, first robotics, robotics team
+currentlocation: Hampton, VA
+email: frcnasaknights122@gmail.com
+
+permalink: /blog/:title
+excerpt_separator: <!--more-->
+markdown: kramdown
+
+collections:
+  - tutorials
